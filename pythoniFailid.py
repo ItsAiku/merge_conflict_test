@@ -1,1 +1,1 @@
-print("Tere, mina olen Aivar ja teen OOP harjutust")
+print("Tere, mina olen meiro ja teen OOP harjutust")
